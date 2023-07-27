@@ -23,7 +23,7 @@ Join the Curve Ecosystem Grants Telegram if you have questions about the applica
 ## Application Template
 Use the following template when submitting your grant application:
 
-1) Name and contact details (Twitter/GitHub/Telegram/email) of yourself (and your team if there is one).
+1) Name and contact details (Twitter/GitHub/Telegram/email) of yourself and your team.
 2) Describe your project in 1-3 sentences.
 3) Describe the viability of your project/idea.
 4) Describe how your project relates to Curve or the Curve ecosystem, including how it will contribute to the long-term growth of the Curve protocol.
@@ -33,3 +33,6 @@ Use the following template when submitting your grant application:
 8) How will the project be maintained after the initial grant term?
 9) Please provide links to previous projects, code, MVP, art, etc.
 10) Have you previously received grants? Anything else worth mentioning?
+
+## Submitting an Application
+
