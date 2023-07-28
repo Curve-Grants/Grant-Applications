@@ -36,3 +36,12 @@ Use the following template when submitting your grant application:
 
 ## Submitting an Application
 
+Make sure to follow the grant application template outlined above.
+
+Submit a PR to the folder (Application-for-review) with file format `year-month-day_ProjectTitle_TeamOrApplicantName.md`
+For instance, an application submitted on July 27, 2023 with project title "crvUSD Risk Dashboard" by team X Labs would submit their application as `2023-07-27_crvUSDRiskDashboard_XLabs.md`.
+
+Make sure to include a good contact in the application and a member of the Grant Council will contact you after your proposal has been reviewed. 
+
+For any additional information or inquiry about your pending application, vist the [Curve Ecosystem Grants TG channel](https://t.me/curve_grants).
+
